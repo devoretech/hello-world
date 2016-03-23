@@ -1,3 +1,3 @@
 # hello-world
 this is a test
-my first commit / test of this
+my first commit / test of this.
